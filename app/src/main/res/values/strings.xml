@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appcadastro</string>
+    <string name="cliente">Cliente</string>
+    <string name="produto">Produto</string>
+    <string name="fornecedor">Fornecedor</string>
+    <string name="sair">Sair</string>
+    <string name="listar">Listar</string>
+    <string name="cadastro">Cadastro</string>
+</resources>
