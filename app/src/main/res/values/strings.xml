@@ -6,4 +6,6 @@
     <string name="sair">Sair</string>
     <string name="listar">Listar</string>
     <string name="cadastro">Cadastro</string>
+    <string name="name">Insira seu Nome</string>
+    <string name="salvar">Salvar</string>
 </resources>
